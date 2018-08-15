@@ -1,0 +1,2 @@
+# smallpythonflask
+baby python codes
